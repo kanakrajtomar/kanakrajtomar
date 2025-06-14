@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🏫 Uttar Pradesh, India
 - 🔭 Building my skills, while also working on a few of projects.
 - 🌱 Learning Data Science, Web Development and DSA, while working on related projects.
-- 📄Check out my resume! [![Kanak's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1vI5UUnutq9gsuTaLPIoHRONbNc8fDCY_/view)
+- 📄Check out my resume! [![Kanak's Resume](https://img.shields.io/badge/-Resume-blue?style=flat&logoColor=white)](https://drive.google.com/file/d/1ijzM3MPjCsChBy5dnv5N6b9znOhFLaEJ/view?usp=sharing)
 - 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/rehanmittal/](https://www.linkedin.com/in/kanak-raj-tomar/)) <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/rehanmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rehanmittal" height="30" width="40" /></a>
