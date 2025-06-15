@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<div id="badges">
+<!--<div id="badges">
   <p align = "center" width = "100%">
     <a href="https://www.linkedin.com/in/rehanmittal/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </p>
-</div>
+</div>-->
 
 
 
