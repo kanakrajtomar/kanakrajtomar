@@ -11,10 +11,8 @@
       Hi 👋! I'm Kanak Raj Tomar, a Web Developer, UI/UX designer, and Data Analyst from India. Let's connect and explore exciting opportunities in software development projects!. Scroll down to know more about me and to connect with me!
   </h4>
 </p>
-<!--
 <img align="right" alt="gif" width="1200" height="5" style="border-radius:5px" src="https://thumbs.gfycat.com/OrdinaryUnkemptHornbill.webp">
 <br>
--->
 
 
 <!--
